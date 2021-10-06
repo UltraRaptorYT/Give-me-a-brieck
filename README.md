@@ -71,4 +71,4 @@ Check out the video on [YouTube](https://youtu.be/ggQQ2z7sngQ)
 
 ## License & copyright
 
-_&copy; [Kaleb Nim](https://github.com/yuwotmate), [Soh Hong Yu](https://github.com/UltraRaptorYT), Xavier Tung 2021_
+_&copy; [Kaleb Nim](https://github.com/yuwotmate), [Soh Hong Yu](https://github.com/UltraRaptorYT), [Xavier Tung](https://github.com/Xyl0w) 2021_
